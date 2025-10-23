@@ -113,14 +113,6 @@ Below are some of my key projects. Click on the links to explore the code and de
 * Showcased **practical generative AI applications** in content automation, knowledge assistants, and cloud workflows.
 **GitHub:https://github.com/IamBHAGYA08/gen-ai.git
 
----
-
-This repository contains a curated collection of end-to-end projects showcasing expertise in Python, ML/AI, Cloud, DevOps, and Full-Stack Development. Each project includes detailed documentation, source code, and deployment instructions.
-
-How to Use?
- *Clone the repository: git clone <repo-url>
- *Navigate to the project folder of interest.
- *Follow each project’s README.md for setup, installation, and usage instructions.
 
 ---
 
