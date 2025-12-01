@@ -1,134 +1,245 @@
-# Bhagyalaksmi.A
+# 🌟 **Bhagyalakshmi A – Project Portfolio **
 
-##About Me
-Computer Science graduate passionate about AI, ML, and cloud technologies. Experienced in Python, MLOps, Docker, Kubernetes, and AWS, with hands-on projects in data analysis, predictive modeling, and automation. Eager to apply technical skills to build impactful, data-driven solutions.
-
-## Projects
-Below are some of my key projects. Click on the links to explore the code and demos:
-
-**Network Security — Phishing Website Detection** | Python, FastAPI, Docker, AWS, MLflow, DagsHub, MongoDB
-
-* Built an end-to-end ML pipeline to classify websites as **legitimate or phishing** using 30+ URL, HTML, and domain-level features.
-* Implemented **data ingestion, validation, transformation, and model training** (Random Forest, AdaBoost) with experiment tracking via MLflow & DagsHub.
-* Deployed a **FastAPI web app**, containerized with Docker, and automated CI/CD to AWS using GitHub Actions.
-* Applied **MLOps practices**, automated model validation, drift detection, and pipeline orchestration.
-**GitHub:** https://github.com/IamBHAGYA08/NETWORKSECURITY.git
+### AI | ML | GenAI | MLOps | DevOps | Cloud | Microservices | Python
 
 ---
 
-**Real-Time Multi-Microservice E-Commerce Application** | Python, Docker, Kubernetes, Terraform, AWS, Argo CD, GitHub Actions
+## 👩‍💻 **About Me**
 
-* Developed a **polyglot microservices E-Commerce application** demonstrating end-to-end DevOps implementation and real-time cloud deployment.
-* Provisioned **AWS cloud infrastructure** (EC2, VPC, EKS, S3, DynamoDB) using **Terraform** with remote state management.
-* Containerized services with **Docker**, orchestrated using **Kubernetes**, and implemented **Ingress, ALB, and secure service accounts**.
-* Built **CI/CD pipelines** for multiple microservices using **GitHub Actions** and **GitOps workflows with Argo CD** for automated deployments.
-* Gained hands-on experience in **multi-microservice architecture, cloud scaling, monitoring, and production-grade DevOps practices**.
-**GitHub:**https://github.com/IamBHAGYA08/Ecommerce.git
+Computer Science graduate passionate about **AI, ML, GenAI, MLOps, DevOps, and Cloud Engineering**.
+Experienced in **Python, FastAPI, Flask, Docker, Kubernetes, LangChain, AWS, Terraform**, and automation pipelines.
+I build **production-grade ML systems, microservices, GenAI apps, and cloud-native architectures**.
+Seeking opportunities to build impactful, end-to-end AI & cloud solutions.
 
 ---
 
-**MLearning — Student Performance Prediction** | Python, Flask, AWS Elastic Beanstalk, Scikit-learn, Pandas
-
-* Developed an **end-to-end ML pipeline** to predict student academic performance using demographic and educational features.
-* Implemented **data ingestion, transformation, and model training** with multiple regression models, hyperparameter tuning, and evaluation.
-* Built a **Flask web app** for real-time predictions and deployed it to **AWS Elastic Beanstalk** for production-ready access.
-* Included **logging, exception handling, and model persistence** to ensure maintainability and reproducibility.
-* Gained hands-on experience in **ML project structure, regression modeling, web deployment, and cloud integration**.
-**GitHub:**https://github.com/IamBHAGYA08/MLearning.git
+# 🚀 **PROJECTS**
 
 ---
 
-**Transformer-Based Text Summarization Pipeline** | Python, Hugging Face Transformers, FastAPI, Docker, MLflow
+# 🧠 **1. AI Code Generator (Multi-Agent Developer System)**
 
-* Developed an **end-to-end transformer-based text summarization pipeline** with modular components for data ingestion, preprocessing, model training, evaluation, and deployment.
-* Built **FastAPI web app** for real-time training and prediction, containerized with Docker, supporting local and cloud deployment.
-* Implemented **structured project configuration, logging, and artifact management** using YAML, dataclasses, and centralized utilities for reproducibility.
-* Trained and evaluated **Pegasus-based summarization models**, computing ROUGE metrics for model performance.
-* Designed **modular pipelines** for independent or sequential execution, enabling research, experimentation, and production-ready deployment.
-**GitHub:**https://github.com/IamBHAGYA08/TextSummarize.git
+**Tech Stack:** Python, LangGraph, Groq LLaMA3, Multi-Agent, uv, FastAPI
+**GitHub:** [https://github.com/IamBHAGYA08/app_builder.git](https://github.com/IamBHAGYA08/app_builder.git)
 
----
+A fully autonomous **multi-agent coding system** that behaves like a real software engineering team.
+It converts a plain English prompt → into a **full working project** (folder structure, files, backend, frontend, config, documentation).
 
-**Microservices-Based Video-to-MP3 Conversion Platform** | Flask, RabbitMQ, PostgreSQL, MongoDB, Docker, Kubernetes, Helm
+**Highlights**
 
-* Developed a **microservices-based media processing platform** allowing users to upload videos, automatically convert them to MP3, and receive email notifications.
-* Designed and implemented **authentication, gateway, converter, and notification services** with Flask, secured via JWT, and persisted data in PostgreSQL & MongoDB.
-* Used **RabbitMQ** for asynchronous job processing, ensuring scalable and reliable background conversion tasks.
-* Containerized all services with **Docker** and deployed using **Kubernetes with Helm charts**, including persistent storage and service orchestration.
-* Gained hands-on experience in **cloud-native microservices, message queues, container orchestration, and MLOps-inspired deployment practices**, with monitoring via Prometheus.
-**GitHub:https://github.com/IamBHAGYA08/microservices.git
+* Planner Agent → creates execution roadmap
+* Architect Agent → converts plan into technical tasks
+* Coder Agent → generates complete codebase
+* Fully modular, production-ready file generation
+* Demonstrates advanced GenAI Engineering + multi-agent orchestration
 
 ---
 
-**Cloud-Native System Monitoring App** | Flask, Docker, AWS ECR, AWS EKS, Kubernetes, Plotly
+# 🗄️ **2. LangChain SQL Chatbot (Groq + Streamlit + SQLite/MySQL)**
 
-* Developed a **real-time system monitoring web app** visualizing CPU and memory utilization using interactive Plotly dashboards.
-* Containerized the application with **Docker** and deployed to **AWS EKS** using Python automation scripts, with images hosted on **AWS ECR**.
-* Collected system metrics via **psutil**, issued alerts for high utilization, and supported scalable, cloud-native monitoring.
-* Gained hands-on experience in **cloud-native architecture, container orchestration, automated deployment, and real-time visualization dashboards**.
-* Demonstrated full **CI/CD and DevOps workflow** potential with AWS-based container orchestration and monitoring setup.
-**GitHub:https://github.com/IamBHAGYA08/Cloud_Native.git
+**Tech Stack:** Python, Streamlit, LangChain SQL Toolkit, Groq LLaMA3, SQLite, MySQL
+**GitHub:** [https://github.com/IamBHAGYA08/SQL-Chatbot.git](https://github.com/IamBHAGYA08/SQL-Chatbot.git)
 
----
+Chat with your SQL databases using natural language. Built using **LLaMA3-8B (Groq)** with LangChain’s SQL Agent.
 
-**MLearning: Student Performance Prediction** | Python, Flask, Docker, AWS, GitHub Actions
+**Features**
 
-* Developed an **end-to-end ML pipeline** to predict student performance from demographic and educational data.
-* Built a **Flask web application** for real-time input and predictions, supporting interactive user experience.
-* Implemented full **data ingestion, preprocessing, model training, and prediction pipeline**, with logging and exception handling.
-* Containerized the application with **Docker** and automated deployment using **GitHub Actions** and **AWS ECR**.
-* Gained practical experience in **ML model development, web deployment, CI/CD workflows, and cloud-based production pipelines**.
-**GitHub:https://github.com/IamBHAGYA08/aws-ci-cd.git
+* Natural language → SQL → result explanation
+* Supports both SQLite & MySQL
+* Streamlit chat with agent reasoning steps
+* Safe read-only mode for SQLite
+* Streams intermediate thoughts using callback handlers
 
 ---
 
-**Airflow ETL Pipeline with PostgreSQL & NASA API** | Python, Apache Airflow, Postgres, Docker
+# 📚 **3. RAG Document Q&A Chatbot (Groq + LangChain + FAISS + Streamlit)**
 
-* Designed and implemented a **fully automated ETL pipeline** orchestrated with **Apache Airflow** to extract data from NASA’s APOD API, transform it, and load it into a **Postgres database**.
-* Leveraged **Airflow DAGs, TaskFlow API, and operators/hooks** to ensure reliable scheduling, task dependency management, and data integrity.
-* Containerized the workflow using **Docker**, enabling reproducible deployments of both Airflow and Postgres services.
-* Enabled scalable and maintainable data ingestion for further **analytics, reporting, and visualization**.
-**GitHub:https://github.com/IamBHAGYA08/Airflow.git
+**Tech Stack:** Python, Groq LLaMA3, LangChain, FAISS, Streamlit, HuggingFace/OpenAI Embeddings
+**GitHub:** [https://github.com/IamBHAGYA08/RAG-Document-Q-A-Chatbot.git](https://github.com/IamBHAGYA08/RAG-Document-Q-A-Chatbot.git)
 
----
+A high-performance **RAG chatbot** that answers questions only from uploaded PDFs (research papers).
 
-**Wine Quality Prediction** | Python, MLflow, Flask, ElasticNet Regression
+**Features**
 
-* Developed a **modular machine learning pipeline** to predict wine quality based on physicochemical features.
-* Implemented **end-to-end workflow** including data ingestion, validation, transformation, model training, evaluation, and deployment.
-* Automated project structure creation using **template.py** for maintainable, scalable development.
-* Tracked experiments and performance metrics (**RMSE, MAE, R²**) with **MLflow**, ensuring reproducibility.
-* Built a **Flask web application** allowing users to input wine features and receive real-time quality predictions.
-* Ensured configurable hyperparameters, structured project artifacts, and reusable utilities for production-ready ML workflows.
-**GitHub:https://github.com/IamBHAGYA08/DSproject.git
+* PDF ingestion, chunking & vectorization
+* FAISS vector store retrieval
+* Ultra-fast answers using LLaMA3-8B (Groq)
+* Streamlit interface
+* Optional LangSmith monitoring
+* Document similarity & context preview
 
 ---
 
-**AI Blog Generator (AWS Bedrock & Lambda)** | Python, AWS Lambda, S3, Generative AI
+# 🛡️ **4. Network Security — Phishing Website Detection (MLOps)**
 
-* Developed a **serverless AI-powered blog generation platform** using AWS Bedrock (Meta Llama2-13B Chat), Lambda, and S3.
-* Implemented automated **blog generation workflow**: accepts a topic → invokes Bedrock model → stores output in S3.
-* Designed **robust error handling and timestamped storage**, ensuring reliability and traceability of generated content.
-* Enabled **serverless execution** with no infrastructure management, demonstrating efficient cloud-native AI integration.
-* Showcased **practical generative AI applications** in content automation, knowledge assistants, and cloud workflows.
-**GitHub:https://github.com/IamBHAGYA08/gen-ai.git
+**Tech Stack:** Python, FastAPI, MLflow, DagsHub, MongoDB, Docker, AWS, GitHub Actions
+**GitHub:** [https://github.com/IamBHAGYA08/NETWORKSECURITY.git](https://github.com/IamBHAGYA08/NETWORKSECURITY.git)
 
+End-to-end ML system that classifies websites as phishing or legitimate using 30+ URL/HTML/domain features.
+
+**Highlights**
+
+* Full pipeline: ingestion → validation → transformation → model training
+* MLflow experiment tracking & model registry
+* Automated CI/CD to AWS
+* Dockerized FastAPI deployment
+* Data drift detection + pipeline orchestration
 
 ---
 
-Thank you for visiting my project portfolio!  
-Feel free to explore the projects, provide feedback, or reach out for collaboration.  
+# 🛒 **5. Real-Time Multi-Microservice E-Commerce Application (DevOps)**
 
-📧 Contact: blakshmiab@gmail.com
+**Tech Stack:** Python, Docker, Kubernetes (EKS), Terraform, Argo CD, GitHub Actions, DynamoDB, S3
+**GitHub:** [https://github.com/IamBHAGYA08/Ecommerce.git](https://github.com/IamBHAGYA08/Ecommerce.git)
 
+A cloud-native E-Commerce system demonstrating full DevOps lifecycle.
 
+**Highlights**
 
+* Polyglot microservices architecture
+* Infrastructure provisioned using Terraform
+* Kubernetes deployments with ALB & Ingress
+* GitHub Actions + GitOps with ArgoCD
+* Real-time scaling, monitoring, and logging
 
+---
 
+# 🎓 **6. MLearning – Student Performance Prediction**
 
+**Tech Stack:** Python, Flask, Scikit-Learn, AWS Elastic Beanstalk
+**GitHub:** [https://github.com/IamBHAGYA08/MLearning.git](https://github.com/IamBHAGYA08/MLearning.git)
 
+End-to-end ML regression project predicting academic performance.
 
+**Highlights**
 
+* Data ingestion → preprocessing → model training
+* Hyperparameter tuning & evaluation
+* Flask web app for real-time predictions
+* Deployed on AWS Elastic Beanstalk
+
+---
+
+# 📝 **7. Transformer-Based Text Summarization Pipeline**
+
+**Tech Stack:** Python, Hugging Face Transformers, FastAPI, MLflow, Docker
+**GitHub:** [https://github.com/IamBHAGYA08/TextSummarize.git](https://github.com/IamBHAGYA08/TextSummarize.git)
+
+Pegasus-based text summarization pipeline.
+
+**Highlights**
+
+* Modular ingestion, preprocessing, training, evaluation
+* ROUGE score evaluation
+* FastAPI inference server
+* Docker-based deployment
+* YAML & dataclasses based config management
+
+---
+
+# 🎧 **8. Microservices Video-to-MP3 Conversion Platform**
+
+**Tech Stack:** Flask, RabbitMQ, PostgreSQL, MongoDB, Docker, Kubernetes, Helm
+**GitHub:** [https://github.com/IamBHAGYA08/microservices.git](https://github.com/IamBHAGYA08/microservices.git)
+
+Distributed media-processing system.
+
+**Highlights**
+
+* Auth, gateway, converter & notification microservices
+* RabbitMQ queue for async task processing
+* Helm charts for deployment
+* Prometheus monitoring
+
+---
+
+# 📊 **9. Cloud-Native System Monitoring App**
+
+**Tech Stack:** Flask, Docker, AWS EKS, Plotly, AWS ECR
+**GitHub:** [https://github.com/IamBHAGYA08/Cloud_Native.git](https://github.com/IamBHAGYA08/Cloud_Native.git)
+
+Real-time cloud resource monitoring dashboard.
+
+**Highlights**
+
+* CPU/Memory visualization via Plotly
+* Fully containerized + EKS deployment
+* AWS ECR integration
+* Auto-scaling & alert system
+
+---
+
+# 🎓 **10. MLearning v2 — Student Prediction (CI/CD Edition)**
+
+**Tech Stack:** Python, Flask, Docker, AWS ECR, GitHub Actions
+**GitHub:** [https://github.com/IamBHAGYA08/aws-ci-cd.git](https://github.com/IamBHAGYA08/aws-ci-cd.git)
+
+Enhanced version with continuous deployment.
+
+**Highlights**
+
+* Full ML pipeline
+* Dockerized app
+* CI/CD using GitHub Actions → AWS
+* Clean, modular code structure
+
+---
+
+# 🚀 **11. Airflow ETL Pipeline (NASA API + PostgreSQL)**
+
+**Tech Stack:** Python, Apache Airflow, Postgres, Docker
+**GitHub:** [https://github.com/IamBHAGYA08/Airflow.git](https://github.com/IamBHAGYA08/Airflow.git)
+
+Automated ETL pipeline orchestrated with Airflow.
+
+**Highlights**
+
+* TaskFlow API, DAG scheduling
+* API extraction + transform + load
+* Dockerized orchestrator + database
+* Reliable, scalable data ingestion
+
+---
+
+# 🍷 **12. Wine Quality Prediction (MLflow)**
+
+**Tech Stack:** Python, Flask, MLflow, ElasticNet
+**GitHub:** [https://github.com/IamBHAGYA08/DSproject.git](https://github.com/IamBHAGYA08/DSproject.git)
+
+Complete ML workflow with MLflow tracking.
+
+**Highlights**
+
+* Data ingestion → validation → transformation → training
+* MLflow experiment tracking
+* Flask prediction service
+* Template-based project generator
+
+---
+
+# ✍️ **13. AI Blog Generator (AWS Bedrock + Lambda)**
+
+**Tech Stack:** Python, AWS Lambda, S3, Bedrock (Llama 2), CloudWatch
+**GitHub:** [https://github.com/IamBHAGYA08/gen-ai.git](https://github.com/IamBHAGYA08/gen-ai.git)
+
+Serverless Generative AI system.
+
+**Highlights**
+
+* Generates blogs from a prompt
+* Stores outputs in S3
+* Lambda-based serverless execution
+* Timestamped, reliable content generation
+
+---
+
+# 📬 **Contact**
+
+📧 **Email:** [blakshmiab@gmail.com](mailto:blakshmiab@gmail.com)
+🔗 **GitHub:** [https://github.com/IamBHAGYA08](https://github.com/IamBHAGYA08)
+🔗 **LinkedIn:** *(share link if you want me to optimize it)*
+
+---
 
 
 
