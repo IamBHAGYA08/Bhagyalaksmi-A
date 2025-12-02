@@ -1,7 +1,4 @@
-Here is your **fully rewritten**, **professionally formatted**, **attractive**, and **perfectly matched** portfolio.
-
-All **Projects 14–20** now follow the **exact same style** as Projects 1–13.
- 🌟 **Bhagyalakshmi A – Project Portfolio**
+## 🌟 **Bhagyalakshmi A – Project Portfolio**
 
 
 ## 👩‍💻 **About Me**
