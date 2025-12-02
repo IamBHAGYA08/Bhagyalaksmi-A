@@ -1,15 +1,15 @@
-# 🌟 **Bhagyalakshmi A – Project Portfolio **
+Here is your **fully rewritten**, **professionally formatted**, **attractive**, and **perfectly matched** portfolio.
 
-### AI | ML | GenAI | MLOps | DevOps | Cloud | Microservices | Python
+All **Projects 14–20** now follow the **exact same style** as Projects 1–13.
+ 🌟 **Bhagyalakshmi A – Project Portfolio**
 
----
 
 ## 👩‍💻 **About Me**
 
 Computer Science graduate passionate about **AI, ML, GenAI, MLOps, DevOps, and Cloud Engineering**.
-Experienced in **Python, FastAPI, Flask, Docker, Kubernetes, LangChain, AWS, Terraform**, and automation pipelines.
-I build **production-grade ML systems, microservices, GenAI apps, and cloud-native architectures**.
-Seeking opportunities to build impactful, end-to-end AI & cloud solutions.
+Skilled in **Python, FastAPI, Flask, Docker, Kubernetes, AWS, Terraform, LangChain**, and building automation pipelines.
+I create **production-grade ML systems, GenAI applications, microservices, and cloud-native architectures**.
+Seeking opportunities to build impactful end-to-end AI and cloud solutions.
 
 ---
 
@@ -22,16 +22,15 @@ Seeking opportunities to build impactful, end-to-end AI & cloud solutions.
 **Tech Stack:** Python, LangGraph, Groq LLaMA3, Multi-Agent, uv, FastAPI
 **GitHub:** [https://github.com/IamBHAGYA08/app_builder.git](https://github.com/IamBHAGYA08/app_builder.git)
 
-A fully autonomous **multi-agent coding system** that behaves like a real software engineering team.
-It converts a plain English prompt → into a **full working project** (folder structure, files, backend, frontend, config, documentation).
+A fully autonomous **AI software engineer** that generates an entire project from a single prompt.
 
 **Highlights**
 
-* Planner Agent → creates execution roadmap
-* Architect Agent → converts plan into technical tasks
-* Coder Agent → generates complete codebase
-* Fully modular, production-ready file generation
-* Demonstrates advanced GenAI Engineering + multi-agent orchestration
+* Planner → creates execution roadmap
+* Architect → converts plan to structured tasks
+* Coder → generates backend, frontend, config & docs
+* Complete folder/file generation
+* Demonstrates advanced multi-agent orchestration
 
 ---
 
@@ -40,67 +39,64 @@ It converts a plain English prompt → into a **full working project** (folder s
 **Tech Stack:** Python, Streamlit, LangChain SQL Toolkit, Groq LLaMA3, SQLite, MySQL
 **GitHub:** [https://github.com/IamBHAGYA08/SQL-Chatbot.git](https://github.com/IamBHAGYA08/SQL-Chatbot.git)
 
-Chat with your SQL databases using natural language. Built using **LLaMA3-8B (Groq)** with LangChain’s SQL Agent.
+Natural language → SQL → results, using Groq LLaMA3 + LangChain.
 
 **Features**
 
-* Natural language → SQL → result explanation
-* Supports both SQLite & MySQL
-* Streamlit chat with agent reasoning steps
-* Safe read-only mode for SQLite
-* Streams intermediate thoughts using callback handlers
+* SQL generation & explanation
+* SQLite & MySQL supported
+* Streamlit chat with agent reasoning
+* Safe read-only mode & callbacks
 
 ---
 
 # 📚 **3. RAG Document Q&A Chatbot (Groq + LangChain + FAISS + Streamlit)**
 
-**Tech Stack:** Python, Groq LLaMA3, LangChain, FAISS, Streamlit, HuggingFace/OpenAI Embeddings
+**Tech Stack:** Python, Groq LLaMA3, LangChain, FAISS, Streamlit
 **GitHub:** [https://github.com/IamBHAGYA08/RAG-Document-Q-A-Chatbot.git](https://github.com/IamBHAGYA08/RAG-Document-Q-A-Chatbot.git)
 
-A high-performance **RAG chatbot** that answers questions only from uploaded PDFs (research papers).
+High-speed RAG for PDF-based research Q&A.
 
 **Features**
 
-* PDF ingestion, chunking & vectorization
-* FAISS vector store retrieval
-* Ultra-fast answers using LLaMA3-8B (Groq)
-* Streamlit interface
-* Optional LangSmith monitoring
-* Document similarity & context preview
+* PDF ingestion & vectorization
+* FAISS retrieval
+* Ultra-fast Groq inference
+* Document similarity + LangSmith tracing
 
 ---
 
 # 🛡️ **4. Network Security — Phishing Website Detection (MLOps)**
 
-**Tech Stack:** Python, FastAPI, MLflow, DagsHub, MongoDB, Docker, AWS, GitHub Actions
+**Tech Stack:** Python, FastAPI, MLflow, DagsHub, MongoDB, Docker, AWS
 **GitHub:** [https://github.com/IamBHAGYA08/NETWORKSECURITY.git](https://github.com/IamBHAGYA08/NETWORKSECURITY.git)
 
-End-to-end ML system that classifies websites as phishing or legitimate using 30+ URL/HTML/domain features.
+End-to-end ML system detecting phishing websites.
 
 **Highlights**
 
-* Full pipeline: ingestion → validation → transformation → model training
-* MLflow experiment tracking & model registry
+* Pipeline: ingestion → validation → training
+* MLflow model registry
 * Automated CI/CD to AWS
-* Dockerized FastAPI deployment
-* Data drift detection + pipeline orchestration
+* Dockerized FastAPI service
+* Data drift monitoring
 
 ---
 
-# 🛒 **5. Real-Time Multi-Microservice E-Commerce Application (DevOps)**
+# 🛒 **5. Real-Time Microservices E-Commerce Platform (DevOps)**
 
-**Tech Stack:** Python, Docker, Kubernetes (EKS), Terraform, Argo CD, GitHub Actions, DynamoDB, S3
+**Tech Stack:** Python, Docker, Kubernetes (EKS), Terraform, ArgoCD, GitHub Actions
 **GitHub:** [https://github.com/IamBHAGYA08/Ecommerce.git](https://github.com/IamBHAGYA08/Ecommerce.git)
 
-A cloud-native E-Commerce system demonstrating full DevOps lifecycle.
+Cloud-native microservices architecture with full DevOps automation.
 
 **Highlights**
 
-* Polyglot microservices architecture
-* Infrastructure provisioned using Terraform
-* Kubernetes deployments with ALB & Ingress
-* GitHub Actions + GitOps with ArgoCD
-* Real-time scaling, monitoring, and logging
+* Polyglot microservices
+* Terraform infra provisioning
+* EKS deployment + ALB ingress
+* GitHub Actions + GitOps workflows
+* Logging, monitoring & autoscaling
 
 ---
 
@@ -109,31 +105,30 @@ A cloud-native E-Commerce system demonstrating full DevOps lifecycle.
 **Tech Stack:** Python, Flask, Scikit-Learn, AWS Elastic Beanstalk
 **GitHub:** [https://github.com/IamBHAGYA08/MLearning.git](https://github.com/IamBHAGYA08/MLearning.git)
 
-End-to-end ML regression project predicting academic performance.
+Regression-based ML system predicting student outcomes.
 
 **Highlights**
 
-* Data ingestion → preprocessing → model training
-* Hyperparameter tuning & evaluation
-* Flask web app for real-time predictions
-* Deployed on AWS Elastic Beanstalk
+* Complete ML pipeline
+* Hyperparameter tuning
+* Flask UI for real-time prediction
+* Deployed on AWS EB
 
 ---
 
 # 📝 **7. Transformer-Based Text Summarization Pipeline**
 
-**Tech Stack:** Python, Hugging Face Transformers, FastAPI, MLflow, Docker
+**Tech Stack:** Python, Hugging Face, FastAPI, MLflow, Docker
 **GitHub:** [https://github.com/IamBHAGYA08/TextSummarize.git](https://github.com/IamBHAGYA08/TextSummarize.git)
 
-Pegasus-based text summarization pipeline.
+Pegasus-based summarization using a clean MLOps pipeline.
 
 **Highlights**
 
-* Modular ingestion, preprocessing, training, evaluation
-* ROUGE score evaluation
-* FastAPI inference server
-* Docker-based deployment
-* YAML & dataclasses based config management
+* Modular pipeline
+* ROUGE evaluation
+* FastAPI inference
+* Docker deployment
 
 ---
 
@@ -142,62 +137,59 @@ Pegasus-based text summarization pipeline.
 **Tech Stack:** Flask, RabbitMQ, PostgreSQL, MongoDB, Docker, Kubernetes, Helm
 **GitHub:** [https://github.com/IamBHAGYA08/microservices.git](https://github.com/IamBHAGYA08/microservices.git)
 
-Distributed media-processing system.
+Distributed media conversion platform.
 
 **Highlights**
 
-* Auth, gateway, converter & notification microservices
-* RabbitMQ queue for async task processing
-* Helm charts for deployment
-* Prometheus monitoring
+* Auth, gateway, converter services
+* RabbitMQ asynchronous jobs
+* Helm charts + Prometheus monitoring
 
 ---
 
 # 📊 **9. Cloud-Native System Monitoring App**
 
-**Tech Stack:** Flask, Docker, AWS EKS, Plotly, AWS ECR
+**Tech Stack:** Flask, Docker, AWS EKS, Plotly
 **GitHub:** [https://github.com/IamBHAGYA08/Cloud_Native.git](https://github.com/IamBHAGYA08/Cloud_Native.git)
 
-Real-time cloud resource monitoring dashboard.
+Realtime dashboard for cloud resource visualization.
 
 **Highlights**
 
-* CPU/Memory visualization via Plotly
-* Fully containerized + EKS deployment
+* CPU/Memory charts (Plotly)
+* EKS deployment
 * AWS ECR integration
-* Auto-scaling & alert system
+* Autoscaling + alerting
 
 ---
 
-# 🎓 **10. MLearning v2 — Student Prediction (CI/CD Edition)**
+# 🎓 **10. MLearning v2 — CI/CD Edition**
 
 **Tech Stack:** Python, Flask, Docker, AWS ECR, GitHub Actions
 **GitHub:** [https://github.com/IamBHAGYA08/aws-ci-cd.git](https://github.com/IamBHAGYA08/aws-ci-cd.git)
 
-Enhanced version with continuous deployment.
+MLearning upgraded with CI/CD.
 
 **Highlights**
 
-* Full ML pipeline
+* Pipeline automation
 * Dockerized app
-* CI/CD using GitHub Actions → AWS
-* Clean, modular code structure
+* Continuous deployment to AWS
 
 ---
 
 # 🚀 **11. Airflow ETL Pipeline (NASA API + PostgreSQL)**
 
-**Tech Stack:** Python, Apache Airflow, Postgres, Docker
+**Tech Stack:** Python, Airflow, PostgreSQL, Docker
 **GitHub:** [https://github.com/IamBHAGYA08/Airflow.git](https://github.com/IamBHAGYA08/Airflow.git)
 
-Automated ETL pipeline orchestrated with Airflow.
+Automated ETL pipeline using Airflow TaskFlow API.
 
 **Highlights**
 
-* TaskFlow API, DAG scheduling
-* API extraction + transform + load
-* Dockerized orchestrator + database
-* Reliable, scalable data ingestion
+* API → Transform → Load
+* Scheduled DAGs
+* Dockerized with Postgres backend
 
 ---
 
@@ -206,40 +198,153 @@ Automated ETL pipeline orchestrated with Airflow.
 **Tech Stack:** Python, Flask, MLflow, ElasticNet
 **GitHub:** [https://github.com/IamBHAGYA08/DSproject.git](https://github.com/IamBHAGYA08/DSproject.git)
 
-Complete ML workflow with MLflow tracking.
+Complete ML lifecycle using MLflow.
 
 **Highlights**
 
-* Data ingestion → validation → transformation → training
-* MLflow experiment tracking
+* Data ingestion → training
+* MLflow metrics tracking
 * Flask prediction service
-* Template-based project generator
 
 ---
 
 # ✍️ **13. AI Blog Generator (AWS Bedrock + Lambda)**
 
-**Tech Stack:** Python, AWS Lambda, S3, Bedrock (Llama 2), CloudWatch
+**Tech Stack:** Python, AWS Lambda, S3, Bedrock (Llama 2)
 **GitHub:** [https://github.com/IamBHAGYA08/gen-ai.git](https://github.com/IamBHAGYA08/gen-ai.git)
 
-Serverless Generative AI system.
+Serverless blog generation using Bedrock.
 
 **Highlights**
 
-* Generates blogs from a prompt
-* Stores outputs in S3
-* Lambda-based serverless execution
-* Timestamped, reliable content generation
+* Prompt → blog generation
+* S3 storage
+* CloudWatch monitoring
+
+---
+
+# 🔍 **14. RAG Router (LangGraph + AstraDB + Groq)**
+
+**Tech Stack:** LangChain, LangGraph, AstraDB, HuggingFace Embeddings, Groq LLaMA3
+**GitHub:** [https://github.com/IamBHAGYA08/RAG_router](https://github.com/IamBHAGYA08/RAG_router)
+
+An intelligent **query router** that decides whether to:
+✔️ Use vector search (AstraDB)
+✔️ Or fetch from Wikipedia
+
+**Highlights**
+
+* Offline embedding model
+* Automatic routing logic
+* Fast Groq inference
+* Clean single-file graph workflow
+
+---
+
+# 📝 **15. CrewAI YouTube Research → Blog Generator**
+
+**Tech Stack:** CrewAI, OpenAI GPT, Python
+**GitHub:** [https://github.com/IamBHAGYA08/Crew-AI](https://github.com/IamBHAGYA08/Crew-AI)
+
+A multi-agent system that turns YouTube videos into full blog articles.
+
+**Highlights**
+
+* Research Agent → extracts insights
+* Writer Agent → generates full blog
+* Markdown export
+* Structured CrewAI workflow
+
+---
+
+# 🔢 **16. Math Solver & Knowledge Assistant (Groq + Streamlit)**
+
+**Tech Stack:** Groq API, LangChain, Streamlit
+**GitHub:** [https://github.com/IamBHAGYA08/MathGPT](https://github.com/IamBHAGYA08/MathGPT)
+
+An AI math tutor with step-by-step reasoning.
+
+**Highlights**
+
+* Math solving using Gemma2
+* ReAct agent for reasoning
+* Wikipedia research tool
+* Clean Streamlit UI
+
+---
+
+# 🎥 **17. YouTube/Website Summarizer (LangChain + Groq)**
+
+**Tech Stack:** Streamlit, Groq API, LangChain
+**GitHub:** [https://github.com/IamBHAGYA08/Text-summarize-](https://github.com/IamBHAGYA08/Text-summarize-)
+
+Fast summarizer for long YouTube videos & websites.
+
+**Highlights**
+
+* Transcript extraction
+* Web scraping → summary
+* 300–word structured output
+* Clean UI + fast responses
+
+---
+
+# 🌐 **18. Web Search Agent (Groq + LangChain Tools)**
+
+**Tech Stack:** Groq LLaMA3, LangChain Tools, Streamlit
+**GitHub:** [https://github.com/IamBHAGYA08/Search-Engine](https://github.com/IamBHAGYA08/Search-Engine)
+
+A smart research assistant with internet tools.
+
+**Highlights**
+
+* DuckDuckGo search
+* Arxiv scientific search
+* Wikipedia lookup
+* Full agent reasoning chain
+
+---
+
+# 💬 **19. Enhanced Q&A Chatbot (OpenAI + LangChain)**
+
+**Tech Stack:** OpenAI API, LangChain, Streamlit
+**GitHub:** [https://github.com/IamBHAGYA08/OpenAI-chatbot](https://github.com/IamBHAGYA08/OpenAI-chatbot)
+
+Beautiful, simple chat assistant with advanced controls.
+
+**Features**
+
+* Model selector
+* Temp/max-tokens sliders
+* Prompt templates
+* Optional LangSmith tracing
+
+---
+
+# 🧬 **20. Llama-3-8B Finetuning with Lamini**
+
+**Tech Stack:** Lamini API, Python, Llama-3-8B
+**GitHub:** [https://github.com/IamBHAGYA08/Finetuning](https://github.com/IamBHAGYA08/Finetuning)
+
+A complete fine-tuning pipeline using Lamini.
+
+**Highlights**
+
+* Custom dataset finetuning
+* Configurable hyperparameters
+* Clean training architecture
 
 ---
 
 # 📬 **Contact**
 
-📧 **Email:** [blakshmiab@gmail.com](mailto:blakshmiab@gmail.com)
-🔗 **GitHub:** [https://github.com/IamBHAGYA08](https://github.com/IamBHAGYA08)
-🔗 **LinkedIn:** *(share link if you want me to optimize it)*
+📧 Email: **[blakshmiab@gmail.com](mailto:blakshmiab@gmail.com)**
+🔗 GitHub: **[https://github.com/IamBHAGYA08](https://github.com/IamBHAGYA08)**
+
 
 ---
+
+
 
 
 
