@@ -14,56 +14,7 @@ Seeking opportunities to build impactful end-to-end AI and cloud solutions.
 
 ---
 
-# 🧠 **1. AI Code Generator (Multi-Agent Developer System)**
-
-**Tech Stack:** Python, LangGraph, Groq LLaMA3, Multi-Agent, uv, FastAPI
-**GitHub:** [https://github.com/IamBHAGYA08/app_builder.git](https://github.com/IamBHAGYA08/app_builder.git)
-
-A fully autonomous **AI software engineer** that generates an entire project from a single prompt.
-
-**Highlights**
-
-* Planner → creates execution roadmap
-* Architect → converts plan to structured tasks
-* Coder → generates backend, frontend, config & docs
-* Complete folder/file generation
-* Demonstrates advanced multi-agent orchestration
-
----
-
-# 🗄️ **2. LangChain SQL Chatbot (Groq + Streamlit + SQLite/MySQL)**
-
-**Tech Stack:** Python, Streamlit, LangChain SQL Toolkit, Groq LLaMA3, SQLite, MySQL
-**GitHub:** [https://github.com/IamBHAGYA08/SQL-Chatbot.git](https://github.com/IamBHAGYA08/SQL-Chatbot.git)
-
-Natural language → SQL → results, using Groq LLaMA3 + LangChain.
-
-**Features**
-
-* SQL generation & explanation
-* SQLite & MySQL supported
-* Streamlit chat with agent reasoning
-* Safe read-only mode & callbacks
-
----
-
-# 📚 **3. RAG Document Q&A Chatbot (Groq + LangChain + FAISS + Streamlit)**
-
-**Tech Stack:** Python, Groq LLaMA3, LangChain, FAISS, Streamlit
-**GitHub:** [https://github.com/IamBHAGYA08/RAG-Document-Q-A-Chatbot.git](https://github.com/IamBHAGYA08/RAG-Document-Q-A-Chatbot.git)
-
-High-speed RAG for PDF-based research Q&A.
-
-**Features**
-
-* PDF ingestion & vectorization
-* FAISS retrieval
-* Ultra-fast Groq inference
-* Document similarity + LangSmith tracing
-
----
-
-# 🛡️ **4. Network Security — Phishing Website Detection (MLOps)**
+# 🛡️ **1. Network Security — Phishing Website Detection (MLOps)**
 
 **Tech Stack:** Python, FastAPI, MLflow, DagsHub, MongoDB, Docker, AWS
 **GitHub:** [https://github.com/IamBHAGYA08/NETWORKSECURITY.git](https://github.com/IamBHAGYA08/NETWORKSECURITY.git)
@@ -80,7 +31,7 @@ End-to-end ML system detecting phishing websites.
 
 ---
 
-# 🛒 **5. Real-Time Microservices E-Commerce Platform (DevOps)**
+# 🛒 **2. Real-Time Microservices E-Commerce Platform (DevOps)**
 
 **Tech Stack:** Python, Docker, Kubernetes (EKS), Terraform, ArgoCD, GitHub Actions
 **GitHub:** [https://github.com/IamBHAGYA08/Ecommerce.git](https://github.com/IamBHAGYA08/Ecommerce.git)
@@ -97,7 +48,71 @@ Cloud-native microservices architecture with full DevOps automation.
 
 ---
 
-# 🎓 **6. MLearning – Student Performance Prediction**
+# ✍️ **3. AI Blog Generator (AWS Bedrock + Lambda)**
+
+**Tech Stack:** Python, AWS Lambda, S3, Bedrock (Llama 2)
+**GitHub:** [https://github.com/IamBHAGYA08/gen-ai.git](https://github.com/IamBHAGYA08/gen-ai.git)
+
+Serverless blog generation using Bedrock.
+
+**Highlights**
+
+* Prompt → blog generation
+* S3 storage
+* CloudWatch monitoring
+
+---
+
+# 🧠 **4. AI Code Generator (Multi-Agent Developer System)**
+
+**Tech Stack:** Python, LangGraph, Groq LLaMA3, Multi-Agent, uv, FastAPI
+**GitHub:** [https://github.com/IamBHAGYA08/app_builder.git](https://github.com/IamBHAGYA08/app_builder.git)
+
+A fully autonomous **AI software engineer** that generates an entire project from a single prompt.
+
+**Highlights**
+
+* Planner → creates execution roadmap
+* Architect → converts plan to structured tasks
+* Coder → generates backend, frontend, config & docs
+* Complete folder/file generation
+* Demonstrates advanced multi-agent orchestration
+
+---
+
+# 🗄️ **5. LangChain SQL Chatbot (Groq + Streamlit + SQLite/MySQL)**
+
+**Tech Stack:** Python, Streamlit, LangChain SQL Toolkit, Groq LLaMA3, SQLite, MySQL
+**GitHub:** [https://github.com/IamBHAGYA08/SQL-Chatbot.git](https://github.com/IamBHAGYA08/SQL-Chatbot.git)
+
+Natural language → SQL → results, using Groq LLaMA3 + LangChain.
+
+**Features**
+
+* SQL generation & explanation
+* SQLite & MySQL supported
+* Streamlit chat with agent reasoning
+* Safe read-only mode & callbacks
+
+---
+
+# 📚 **6. RAG Document Q&A Chatbot (Groq + LangChain + FAISS + Streamlit)**
+
+**Tech Stack:** Python, Groq LLaMA3, LangChain, FAISS, Streamlit
+**GitHub:** [https://github.com/IamBHAGYA08/RAG-Document-Q-A-Chatbot.git](https://github.com/IamBHAGYA08/RAG-Document-Q-A-Chatbot.git)
+
+High-speed RAG for PDF-based research Q&A.
+
+**Features**
+
+* PDF ingestion & vectorization
+* FAISS retrieval
+* Ultra-fast Groq inference
+* Document similarity + LangSmith tracing
+
+---
+
+# 🎓 **7. MLearning – Student Performance Prediction**
 
 **Tech Stack:** Python, Flask, Scikit-Learn, AWS Elastic Beanstalk
 **GitHub:** [https://github.com/IamBHAGYA08/MLearning.git](https://github.com/IamBHAGYA08/MLearning.git)
@@ -113,7 +128,7 @@ Regression-based ML system predicting student outcomes.
 
 ---
 
-# 📝 **7. Transformer-Based Text Summarization Pipeline**
+# 📝 **8. Transformer-Based Text Summarization Pipeline**
 
 **Tech Stack:** Python, Hugging Face, FastAPI, MLflow, Docker
 **GitHub:** [https://github.com/IamBHAGYA08/TextSummarize.git](https://github.com/IamBHAGYA08/TextSummarize.git)
@@ -129,7 +144,7 @@ Pegasus-based summarization using a clean MLOps pipeline.
 
 ---
 
-# 🎧 **8. Microservices Video-to-MP3 Conversion Platform**
+# 🎧 **9. Microservices Video-to-MP3 Conversion Platform**
 
 **Tech Stack:** Flask, RabbitMQ, PostgreSQL, MongoDB, Docker, Kubernetes, Helm
 **GitHub:** [https://github.com/IamBHAGYA08/microservices.git](https://github.com/IamBHAGYA08/microservices.git)
@@ -144,7 +159,7 @@ Distributed media conversion platform.
 
 ---
 
-# 📊 **9. Cloud-Native System Monitoring App**
+# 📊 **10. Cloud-Native System Monitoring App**
 
 **Tech Stack:** Flask, Docker, AWS EKS, Plotly
 **GitHub:** [https://github.com/IamBHAGYA08/Cloud_Native.git](https://github.com/IamBHAGYA08/Cloud_Native.git)
@@ -160,7 +175,7 @@ Realtime dashboard for cloud resource visualization.
 
 ---
 
-# 🎓 **10. MLearning v2 — CI/CD Edition**
+# 🎓 **11. MLearning v2 — CI/CD Edition**
 
 **Tech Stack:** Python, Flask, Docker, AWS ECR, GitHub Actions
 **GitHub:** [https://github.com/IamBHAGYA08/aws-ci-cd.git](https://github.com/IamBHAGYA08/aws-ci-cd.git)
@@ -175,7 +190,7 @@ MLearning upgraded with CI/CD.
 
 ---
 
-# 🚀 **11. Airflow ETL Pipeline (NASA API + PostgreSQL)**
+# 🚀 **12. Airflow ETL Pipeline (NASA API + PostgreSQL)**
 
 **Tech Stack:** Python, Airflow, PostgreSQL, Docker
 **GitHub:** [https://github.com/IamBHAGYA08/Airflow.git](https://github.com/IamBHAGYA08/Airflow.git)
@@ -190,7 +205,7 @@ Automated ETL pipeline using Airflow TaskFlow API.
 
 ---
 
-# 🍷 **12. Wine Quality Prediction (MLflow)**
+# 🍷 **13. Wine Quality Prediction (MLflow)**
 
 **Tech Stack:** Python, Flask, MLflow, ElasticNet
 **GitHub:** [https://github.com/IamBHAGYA08/DSproject.git](https://github.com/IamBHAGYA08/DSproject.git)
@@ -202,21 +217,6 @@ Complete ML lifecycle using MLflow.
 * Data ingestion → training
 * MLflow metrics tracking
 * Flask prediction service
-
----
-
-# ✍️ **13. AI Blog Generator (AWS Bedrock + Lambda)**
-
-**Tech Stack:** Python, AWS Lambda, S3, Bedrock (Llama 2)
-**GitHub:** [https://github.com/IamBHAGYA08/gen-ai.git](https://github.com/IamBHAGYA08/gen-ai.git)
-
-Serverless blog generation using Bedrock.
-
-**Highlights**
-
-* Prompt → blog generation
-* S3 storage
-* CloudWatch monitoring
 
 ---
 
